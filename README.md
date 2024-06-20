@@ -7,6 +7,7 @@ MSc Bioinformatics, University of British Columbia 2025-2027
 
 ### Work Experience
 Research Assistant...
+
 Teaching Assistant @ Carleton University
 - marked exams and blah blah blah
 
