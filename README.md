@@ -1,4 +1,4 @@
-# Student
+# About Me!
 
 ### Education
 BSc Neuroscience & Mental Health (Honours), Carleton University 2020-2024
